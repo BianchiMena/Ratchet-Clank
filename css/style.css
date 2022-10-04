@@ -1,0 +1,394 @@
+/* CSS TOP NAV Start*/
+.topnav {
+  overflow: hidden;
+}
+
+.topnav.background-image {
+  background-image: url("../images/galaxy.jpg");
+  font-family: "Qanelas Soft";
+  src: url("../fonts/Qanelas\ Soft\ FREE/") format("opentype");
+}
+
+.topnav a {
+  float: left;
+  margin: auto;
+  text-align: center;
+  color: lightgray;
+  font-family: "Future", sans-serif;
+  padding: 14px;
+  font-size: 30px;
+}
+
+@font-face {
+  font-family: "Future";
+  src: url(../fonts/Qanelas\ Soft\ FREE/rg-future-italic.otf);
+}
+
+.topnav a:hover {
+  color: gold;
+}
+
+/* CSS TOP NAV End*/
+
+/* HOME TopNav Start*/
+
+img.qwarkTopNav {
+  width: 30px;
+  margin-top: 5px;
+  padding: 5px;
+}
+
+img.mrZurkonTopNav {
+  width: 70px;
+  margin-bottom: 10px;
+}
+
+img.protopetTopNav {
+  width: 55px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+img.rangersTopNav {
+  width: 50px;
+  margin-bottom: 5px;
+}
+
+img.ratchetDeadlockedTopNav {
+  width: 40px;
+  margin-bottom: 15px;
+}
+
+img.insomniacGamesTopNav {
+  width: 100px;
+}
+
+img.clankTopNav {
+  width: 50px;
+}
+
+img.swingshotTopNav {
+  width: 40px;
+  margin-bottom: 8px;
+}
+
+img.giantClankTopNav {
+  width: 40px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+img.gasparTopNav {
+  width: 40px;
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+
+img.rivetTopNav {
+  width: 30px;
+  margin-left: 10px;
+  margin-bottom: 2px;
+}
+
+img.goldBoltOne {
+  float: right;
+  margin: auto;
+  width: 40px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+/* HOME TopNav End*/
+
+/* GAMES TopNav Start*/
+
+img.racLogo {
+  width: 60px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+img.ratchetAndClank2 {
+  width: 90px;
+  margin-top: 3px;
+}
+
+img.ratchetAndClank3 {
+  width: 60px;
+  margin-bottom: 3px;
+}
+
+img.ratchetDeadlocked {
+  width: 60px;
+  margin-left: 10px;
+  margin-bottom: 4px;
+}
+
+img.ratchetAndClankSizeMatters {
+  width: 60px;
+  margin-left: 10px;
+  margin-bottom: 4px;
+}
+
+img.ratchetAndClankFutureTools {
+  width: 80px;
+  margin-bottom: 10px;
+}
+
+img.racACrackInTime {
+  width: 70px;
+  margin-bottom: 10px;
+}
+
+img.racRiftApart {
+  width: 80px;
+}
+
+/* GAMES TopNav End*/
+
+/* GAMES Cases Start */
+
+img.racOneGameCase {
+  width: 200px;
+  float: none;
+  justify-content: center;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}
+
+img.racTwoGameCase {
+  width: 200px;
+  float: none;
+  justify-content: center;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}
+
+img.racThreeGameCase {
+  width: 200px;
+  float: none;
+  justify-content: center;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}
+
+/* GAMES Cases End */
+
+/* BODY Start */
+
+html,
+body {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.background-imageTwo {
+  background-image: url("../images/4kwallpaperRac.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageThree {
+  background-image: url("../images/racGamesBackgroundImage.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageFour {
+  background-image: url("../images/racPlanetsBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageFive {
+  background-image: url("../images/racWeaponsBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageSix {
+  background-image: url("../images/racGadgetsBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageSeven {
+  background-image: url("../images/racStoryBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageEight {
+  background-image: url("../images/racCharactersBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageNine {
+  background-image: url("../images/racSkillPointsBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageTen {
+  background-image: url("../images/racBoltsBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.background-imageEleven {
+  background-image: url("../images/racAboutBackgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+/* BODY End */
+
+img.goldBoltTwo {
+  float: none;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 40px;
+}
+
+/* WEAPONS Top Nav Start */
+
+img.bouncer {
+  width: 60px;
+  margin-top: 4px;
+  margin-left: 10px;
+}
+
+img.racGun {
+  width: 70px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+img.rac2Missile {
+  width: 60px;
+  margin-bottom: 7px;
+  margin-left: 8px;
+}
+
+img.racLavaGun {
+  width: 60px;
+  margin-bottom: 13px;
+  margin-left: 12px;
+}
+
+img.racPyrocitor {
+  width: 60px;
+  margin-bottom: 10px;
+  margin-left: 12px;
+}
+
+img.rac2Grenade {
+  width: 60px;
+  margin-left: 12px;
+}
+
+img.racDeadlockedNuke {
+  width: 60px;
+  margin-bottom: 12px;
+  margin-left: 12px;
+}
+
+img.racSuckCannon {
+  width: 60px;
+  margin-bottom: 3px;
+  margin-left: 12px;
+}
+
+img.plasmaStorm {
+  float: right;
+  margin: auto;
+  width: 60px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+/* WEAPONS Top Nav End */
+
+img.veldin {
+  float: right;
+  margin: auto;
+  width: 40px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+img.grindboots {
+  float: right;
+  margin: auto;
+  width: 50px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+img.racAzimuth {
+  float: right;
+  margin: auto;
+  width: 80px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+img.qwarkAndNefarious {
+  float: right;
+  margin: auto;
+  width: 80px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+img.skillPoints {
+  float: right;
+  margin: auto;
+  width: 50px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+img.boltsRac4 {
+  float: right;
+  margin: auto;
+  width: 40px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+img.racAbout {
+  float: right;
+  margin: auto;
+  width: 40px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
